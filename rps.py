@@ -99,7 +99,7 @@ class Main():
 	# main loop 
 	def welcome():
 		print("===============================================================\n\
-		Welcome to the \"Rock, Papaer, Scissors game!\"\n\
+		Welcome to the \"Rock, Paper, Scissors game!\"\n\
 	===============================================================\n ")
 		Newgame.players_names()
 
